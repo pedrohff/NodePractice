@@ -1,0 +1,21 @@
+{
+  "name": "express-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pedrohff/NodePractice/express-demo"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^1.30.0",
+    "debug": "^3.1.0",
+    "express": "^4.16.3",
+    "joi": "^13.4.0"
+  }
+}
